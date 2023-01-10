@@ -1,5 +1,11 @@
 # Face Recognition using Eigenfaces
 
+# Team Members:
+- Urvish Pujara
+- Chandan Shrivastava
+- Sankalp Bhat
+- Shreeya Singh
+
 # Install dependencies
 ```bash
 pip install -r requirements.txt
